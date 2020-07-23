@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Poshmark Share - Followers
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Make sharing easier
 // @author       Jeff
 // @match        https://poshmark.com/closet/*
 // @grant        none
 // @require http://code.jquery.com/jquery-3.4.1.min.js
+// @updateURL    https://raw.githubusercontent.com/jefflenz/poshmark-tools/master/tampermonkey-share-followers.js
 // @run-at       context-menu
 // ==/UserScript==
 
