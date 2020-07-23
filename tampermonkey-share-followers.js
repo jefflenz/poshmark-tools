@@ -12,7 +12,6 @@
 
 (function() {
     'use strict';
-    jQuery = jQuery || {};
 
     jQuery.noConflict();
 
