@@ -42,6 +42,6 @@
     );
 
     jQuery('[data-et-name="share"]').click(function (e) {
-        console.log(jQuery(this).parent().parent().parent().hide());
+        console.log(jQuery(this).parent().parent().parent().parent().hide());
     });
 })();
